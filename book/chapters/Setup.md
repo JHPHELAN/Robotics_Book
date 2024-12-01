@@ -11,7 +11,7 @@ This book provides code examples that you can use to learn about robotics.
 The code examples and other materials are written in Python, C++, XML, text and in other forms.
 The examples are designed primarily to be run on a computer with a Linux operating system using the Ubuntu distribution.
 There are other OSes you could use, and other distributions, but I'm not going to cover them here.
-Learing ROS is a steep enough learning curve without adding the complexity of different OSes and distributions.
+Learning ROS is a steep enough learning curve without adding the complexity of different OSes and distributions.
 I will leave that to you to figure out if you want to use something else.
 
 The examples are tested in late 2024 using Linux Ubuntu 24.04 LTS and ROS Jazzy Jalisco.
