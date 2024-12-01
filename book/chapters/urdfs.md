@@ -45,7 +45,7 @@ use of a macro processor to simplify the work you need to do to write a URDF.
 
 A URDF file is an XML file^[See: https://www.w3schools.com/xml/].
 You can create one using any text editor or with an IDE that makes it easy to create valid XML code.
-Let's begin with this simple URDF which is in the 1.urdf file^[At wr_book_ws/src/description/urdf/1.urdf].
+Let's begin with this simple URDF which is in the 1.urdf file^[At wr_book_ws/src/Robotics_Book/description_1/urdf/1.urdf].
 
 ```xml
 <?xml version="1.0"?>
